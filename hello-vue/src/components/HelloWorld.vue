@@ -10,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data(){
     return{
-      helloMessage: ''
+      helloMessage: 'oh my my my'
     }
   },
   props: {
